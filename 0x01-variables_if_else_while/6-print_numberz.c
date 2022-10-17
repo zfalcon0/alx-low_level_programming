@@ -3,12 +3,9 @@
 
 
 /**
-
- *main - print 0123456789 using putchar
-
- *Return: Always 0 (Success)
-
- */
+*main - print 0123456789 using putchar
+*Return: Always 0 (Success)
+*/
 
 
 
@@ -30,7 +27,7 @@ n++;
 
 }
 
-putchar('\n);
+putchar('\n');
 
 
 
