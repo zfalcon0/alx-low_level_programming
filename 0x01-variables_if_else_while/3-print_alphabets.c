@@ -13,9 +13,9 @@ int main(void)
 
 {
 
-char lower = a;
+char lower = 'a';
 
-char upper = A;
+char upper = 'A';
 
 
 
