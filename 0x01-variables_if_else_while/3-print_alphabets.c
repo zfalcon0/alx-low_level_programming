@@ -3,12 +3,9 @@
 
 
 /**
-
- *main - print lowercase and uppercase a-zA-Z using putchar
-
- *Return: Always 0 (Success)
-
- */
+*main - print lowercase and uppercase a-zA-Z using putchar
+*Return: Always 0 (Success)
+*/
 
 
 
