@@ -41,7 +41,7 @@ upper++;
 
 }
 
-putchar(n);
+putchar('\n');
 
 
 
