@@ -19,7 +19,7 @@ char upper = 'A';
 
 
 
-while (lower <= z) /*print lowercases a-z*/
+while (lower <= 'z') /*print lowercases a-z*/
 
 {
 
@@ -31,7 +31,7 @@ lower++;
 
 
 
-while (upper <= Z) /*print uppercase A-Z*/
+while (upper <= 'Z') /*print uppercase A-Z*/
 
 {
 
